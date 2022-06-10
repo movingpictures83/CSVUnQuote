@@ -1,0 +1,2 @@
+Prefix plugins/CSVUnQuote/example
+Plugin CSVUnQuote inputfile otu_table.csv outputfile otu_table.noquotes.csv
